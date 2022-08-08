@@ -7,8 +7,8 @@ output redirection, as well as pipes as a form of IPC between a pair of commands
 project
 will involve using the UNIX fork(), exec(), wait(), dup2(), and pipe() system calls and can be completed
 on Linux system
-  I. Overview
-  II. Executing Command in a Child Process
-  III. Creating a History Feature
-  IV. Redirecting Input and Output
-  V. Communication via a Pipe
+  I. Overview\n
+  II. Executing Command in a Child Process\n
+  III. Creating a History Feature\n
+  IV. Redirecting Input and Output\n
+  V. Communication via a Pipe\n
